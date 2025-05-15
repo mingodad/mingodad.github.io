@@ -1,8 +1,8 @@
 # mingodad.github.io
 Web site for my repositories
-- ParserTL playground https://mingodad.github.io/parsertl-playground/playground
-- Json2Ebnf generates EBNF from tree-sitter grammars https://mingodad.github.io/plgh/json2ebnf.html
-- Peglib playground https://mingodad.github.io/cpp-peglib
-- Lua playground https://mingodad.github.io/lua-wasm-playground
-- CG-SQL playground https://mingodad.github.io/CG-SQL-Lua-playground
-- CocoR LL parser generator playground https://mingodad.github.io/CocoR-Typescript/playground
+- [ParserTL playground](https://mingodad.github.io/parsertl-playground/playground)
+- [Json2Ebnf generates EBNF from tree-sitter grammars](https://mingodad.github.io/plgh/json2ebnf.html)
+- [Peglib playground](https://mingodad.github.io/cpp-peglib)
+- [Lua playground](https://mingodad.github.io/lua-wasm-playground)
+- [CG-SQL playground](https://mingodad.github.io/CG-SQL-Lua-playground)
+- [CocoR LL parser generator playground](https://mingodad.github.io/CocoR-Typescript/playground)
