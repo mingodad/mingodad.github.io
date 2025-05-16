@@ -5,4 +5,6 @@ Web site for my repositories
 - [Peglib playground](https://mingodad.github.io/cpp-peglib)
 - [Lua playground](https://mingodad.github.io/lua-wasm-playground)
 - [CG-SQL playground](https://mingodad.github.io/CG-SQL-Lua-playground)
+- [LALR parser generator playground](https://mingodad.github.io/lalr)
 - [CocoR LL parser generator playground](https://mingodad.github.io/CocoR-Typescript/playground)
+- [GLPK glpsol online playground](https://mingodad.github.io/GLPK/)
